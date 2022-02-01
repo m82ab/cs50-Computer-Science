@@ -1,0 +1,12 @@
+sort1 uses: Bubblesort
+
+How do you know?: Because on already sorted data if performed
+may faster than selection sort
+
+sort2 uses: mergeSort
+
+How do you know?: Because on reversed values it was the fastest algorithm
+
+sort3 uses: Selection Sort
+
+How do you know?: Because for sorted data it had about the same time as for reversed or unsorted data
