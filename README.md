@@ -1,5 +1,5 @@
 # cs50 Computer Science
-<img src="https://8pic.ir/uploads/22.png" style="width:150px">
+<img src="https://8pic.ir/uploads/22.png" style="border-radius: 5px; background-color: rgb(240, 204, 0);">
 </br>
 CS50's Introduction to Computer Science
 </br>
