@@ -1,9 +1,0 @@
-cobblestone        
-
-stone
-
-light gray concrete
-
-white_concrete
- 
-smooth-quartz
