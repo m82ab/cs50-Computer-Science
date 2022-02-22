@@ -33,6 +33,7 @@ def index():
                 month,
                 day,
             )
+          
 
         birthdays = db.execute("SELECT * FROM birthdays")
 
